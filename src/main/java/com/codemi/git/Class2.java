@@ -8,4 +8,6 @@ package java.com.codemi.git;
 public class Class2 {
 
     //dev01 class2
+
+    //dev02
 }
