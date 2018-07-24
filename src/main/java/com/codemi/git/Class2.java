@@ -13,4 +13,5 @@ public class Class2 {
         int c = a*b;
 
     }
+
 }
