@@ -10,8 +10,7 @@ public class MasterV1 {
     //master初始创建
     public void methold() {
         String msg = "master 创建方法";
-
-
+        String msg2 = "dev01";
     }
 
 }
