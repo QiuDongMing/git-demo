@@ -7,7 +7,14 @@ package java.com.codemi.git;
  */
 public class Class2 {
 
-    //dev01 class2
 
-    //dev02
+    public void method() {
+        int a=1;
+        int b =2;
+        int c = a+b;
+
+    }
+
+
+
 }
