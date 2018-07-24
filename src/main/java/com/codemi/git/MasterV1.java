@@ -11,6 +11,7 @@ public class MasterV1 {
     public void methold() {
         String msg = "master 创建方法";
         String msg3 = "我在master修改";
+        String msg2 = "dev01x";
 
     }
 
